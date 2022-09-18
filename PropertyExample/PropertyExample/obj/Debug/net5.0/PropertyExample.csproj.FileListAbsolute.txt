@@ -1,0 +1,16 @@
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\bin\Debug\net5.0\PropertyExample.exe
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\bin\Debug\net5.0\PropertyExample.deps.json
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\bin\Debug\net5.0\PropertyExample.runtimeconfig.json
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\bin\Debug\net5.0\PropertyExample.runtimeconfig.dev.json
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\bin\Debug\net5.0\PropertyExample.dll
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\bin\Debug\net5.0\ref\PropertyExample.dll
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\bin\Debug\net5.0\PropertyExample.pdb
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\PropertyExample.csproj.AssemblyReference.cache
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\PropertyExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\PropertyExample.AssemblyInfoInputs.cache
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\PropertyExample.AssemblyInfo.cs
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\PropertyExample.csproj.CoreCompileInputs.cache
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\PropertyExample.dll
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\ref\PropertyExample.dll
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\PropertyExample.pdb
+C:\Users\huzefa\source\repos\PropertyExample\PropertyExample\obj\Debug\net5.0\PropertyExample.genruntimeconfig.cache

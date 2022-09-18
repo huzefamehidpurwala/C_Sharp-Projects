@@ -1,0 +1,16 @@
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\bin\Debug\net5.0\Trial_Learning_Project.exe
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\bin\Debug\net5.0\Trial_Learning_Project.deps.json
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\bin\Debug\net5.0\Trial_Learning_Project.runtimeconfig.json
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\bin\Debug\net5.0\Trial_Learning_Project.runtimeconfig.dev.json
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\bin\Debug\net5.0\Trial_Learning_Project.dll
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\bin\Debug\net5.0\ref\Trial_Learning_Project.dll
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\bin\Debug\net5.0\Trial_Learning_Project.pdb
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\Trial_Learning_Project.csproj.AssemblyReference.cache
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\Trial_Learning_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\Trial_Learning_Project.AssemblyInfoInputs.cache
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\Trial_Learning_Project.AssemblyInfo.cs
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\Trial_Learning_Project.csproj.CoreCompileInputs.cache
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\Trial_Learning_Project.dll
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\ref\Trial_Learning_Project.dll
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\Trial_Learning_Project.pdb
+C:\Users\huzefa\source\repos\Trial_Learning_Project\Trial_Learning_Project\obj\Debug\net5.0\Trial_Learning_Project.genruntimeconfig.cache

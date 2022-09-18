@@ -1,0 +1,7 @@
+C:\Users\huzefa\source\repos\Trial_Conn\Trial_Conn\bin\Debug\Trial_Conn.exe.config
+C:\Users\huzefa\source\repos\Trial_Conn\Trial_Conn\bin\Debug\Trial_Conn.exe
+C:\Users\huzefa\source\repos\Trial_Conn\Trial_Conn\bin\Debug\Trial_Conn.pdb
+C:\Users\huzefa\source\repos\Trial_Conn\Trial_Conn\obj\Debug\Trial_Conn.csproj.AssemblyReference.cache
+C:\Users\huzefa\source\repos\Trial_Conn\Trial_Conn\obj\Debug\Trial_Conn.csproj.CoreCompileInputs.cache
+C:\Users\huzefa\source\repos\Trial_Conn\Trial_Conn\obj\Debug\Trial_Conn.exe
+C:\Users\huzefa\source\repos\Trial_Conn\Trial_Conn\obj\Debug\Trial_Conn.pdb

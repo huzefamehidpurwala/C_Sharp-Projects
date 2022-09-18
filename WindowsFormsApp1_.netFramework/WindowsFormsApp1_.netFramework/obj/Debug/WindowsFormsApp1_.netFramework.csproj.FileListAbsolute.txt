@@ -1,0 +1,11 @@
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\bin\Debug\WindowsFormsApp1_.netFramework.exe.config
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\bin\Debug\WindowsFormsApp1_.netFramework.exe
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\bin\Debug\WindowsFormsApp1_.netFramework.pdb
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\obj\Debug\WindowsFormsApp1_.netFramework.csproj.AssemblyReference.cache
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\obj\Debug\WindowsFormsApp1_.netFramework.Form1.resources
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\obj\Debug\WindowsFormsApp1_.netFramework.Properties.Resources.resources
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\obj\Debug\WindowsFormsApp1_.netFramework.csproj.GenerateResource.cache
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\obj\Debug\WindowsFormsApp1_.netFramework.csproj.CoreCompileInputs.cache
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\obj\Debug\WindowsFormsApp1_.netFramework.exe
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\obj\Debug\WindowsFormsApp1_.netFramework.pdb
+C:\Users\huzefa\source\repos\WindowsFormsApp1_.netFramework\WindowsFormsApp1_.netFramework\obj\Debug\WindowsFormsApp1_.netFramework.Main.resources

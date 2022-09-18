@@ -1,0 +1,10 @@
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\bin\Debug\SignUp_.netFramework.exe.config
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\bin\Debug\SignUp_.netFramework.exe
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\bin\Debug\SignUp_.netFramework.pdb
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\obj\Debug\SignUp_.netFramework.csproj.AssemblyReference.cache
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\obj\Debug\SignUp_.netFramework.Form1.resources
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\obj\Debug\SignUp_.netFramework.Properties.Resources.resources
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\obj\Debug\SignUp_.netFramework.csproj.GenerateResource.cache
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\obj\Debug\SignUp_.netFramework.csproj.CoreCompileInputs.cache
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\obj\Debug\SignUp_.netFramework.exe
+C:\Users\huzefa\source\repos\SignUp_.netFramework\SignUp_.netFramework\obj\Debug\SignUp_.netFramework.pdb

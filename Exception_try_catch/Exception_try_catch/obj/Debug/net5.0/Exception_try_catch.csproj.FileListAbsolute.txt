@@ -1,0 +1,16 @@
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\bin\Debug\net5.0\Exception_try_catch.exe
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\bin\Debug\net5.0\Exception_try_catch.deps.json
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\bin\Debug\net5.0\Exception_try_catch.runtimeconfig.json
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\bin\Debug\net5.0\Exception_try_catch.runtimeconfig.dev.json
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\bin\Debug\net5.0\Exception_try_catch.dll
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\bin\Debug\net5.0\ref\Exception_try_catch.dll
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\bin\Debug\net5.0\Exception_try_catch.pdb
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\Exception_try_catch.csproj.AssemblyReference.cache
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\Exception_try_catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\Exception_try_catch.AssemblyInfoInputs.cache
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\Exception_try_catch.AssemblyInfo.cs
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\Exception_try_catch.csproj.CoreCompileInputs.cache
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\Exception_try_catch.dll
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\ref\Exception_try_catch.dll
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\Exception_try_catch.pdb
+C:\Users\huzefa\source\repos\Exception_try_catch\Exception_try_catch\obj\Debug\net5.0\Exception_try_catch.genruntimeconfig.cache

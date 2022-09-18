@@ -1,0 +1,7 @@
+C:\Users\huzefa\source\repos\CommonDesign\CommonDesign\bin\Debug\CommonDesign.dll.config
+C:\Users\huzefa\source\repos\CommonDesign\CommonDesign\bin\Debug\CommonDesign.dll
+C:\Users\huzefa\source\repos\CommonDesign\CommonDesign\bin\Debug\CommonDesign.pdb
+C:\Users\huzefa\source\repos\CommonDesign\CommonDesign\obj\Debug\CommonDesign.csproj.CoreCompileInputs.cache
+C:\Users\huzefa\source\repos\CommonDesign\CommonDesign\obj\Debug\CommonDesign.dll
+C:\Users\huzefa\source\repos\CommonDesign\CommonDesign\obj\Debug\CommonDesign.pdb
+C:\Users\huzefa\source\repos\CommonDesign\CommonDesign\obj\Debug\CommonDesign.csproj.AssemblyReference.cache

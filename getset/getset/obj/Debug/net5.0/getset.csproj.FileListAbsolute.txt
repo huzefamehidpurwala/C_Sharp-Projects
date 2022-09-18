@@ -1,0 +1,16 @@
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\getset.csproj.AssemblyReference.cache
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\getset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\getset.AssemblyInfoInputs.cache
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\getset.AssemblyInfo.cs
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\getset.csproj.CoreCompileInputs.cache
+C:\Users\huzefa\source\repos\getset\getset\bin\Debug\net5.0\getset.exe
+C:\Users\huzefa\source\repos\getset\getset\bin\Debug\net5.0\getset.deps.json
+C:\Users\huzefa\source\repos\getset\getset\bin\Debug\net5.0\getset.runtimeconfig.json
+C:\Users\huzefa\source\repos\getset\getset\bin\Debug\net5.0\getset.runtimeconfig.dev.json
+C:\Users\huzefa\source\repos\getset\getset\bin\Debug\net5.0\getset.dll
+C:\Users\huzefa\source\repos\getset\getset\bin\Debug\net5.0\ref\getset.dll
+C:\Users\huzefa\source\repos\getset\getset\bin\Debug\net5.0\getset.pdb
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\getset.dll
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\ref\getset.dll
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\getset.pdb
+C:\Users\huzefa\source\repos\getset\getset\obj\Debug\net5.0\getset.genruntimeconfig.cache
